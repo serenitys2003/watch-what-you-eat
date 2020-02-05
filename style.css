@@ -3,13 +3,15 @@
 body {
   font-family: 'Righteous', cursive;
   margin: 2em;
-  background-color: black;
-  background-image: url(https://cdn.glitch.com/12f72a60-7754-43b9-bb1d-19f924e40aba%2Ffood.jpg?v=1580912350160)
-h1 {
+  /*background-color: black;*/
+  background: url(https://cdn.glitch.com/12f72a60-7754-43b9-bb1d-19f924e40aba%2Ffood.jpg?v=1580912350160);
+  background-size: 100%;
+
+  h1 {
   font-style: italic;
-  color: white;
-}
-p{
-  color:turquoise;
+  color: white;}
+
+  p {
+  color: turquoise;
 }
 
